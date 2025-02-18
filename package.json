@@ -1,0 +1,25 @@
+{
+  "name": "idopont",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000-\u0000m\u0000e\u0000s\u0000s\u0000e\u0000n\u0000g\u0000e\u0000r\u0000-\u0000b\u0000o\u0000t\u0000\r\u0000 \u0000#\u0000 \u0000m\u0000e\u0000s\u0000s\u0000e\u0000n\u0000g\u0000e\u0000r\u0000-\u0000b\u0000o\u0000t\u0000\r\u0000 \u0000",
+  "main": "Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Molnaron777/messenger-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Molnaron777/messenger-bot/issues"
+  },
+  "homepage": "https://github.com/Molnaron777/messenger-bot#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
+  }
+}
